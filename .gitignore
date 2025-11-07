@@ -1,0 +1,25 @@
+# Go
+/bin/
+/pkg/
+/vendor/
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Node
+node_modules/
+dist/
+.env
+
+# VSCode
+.vscode/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Docker
+docker-compose.override.yml
